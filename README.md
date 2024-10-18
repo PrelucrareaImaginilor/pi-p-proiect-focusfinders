@@ -1,0 +1,3 @@
+
+Nr.	Autor|An	Titlu	Aplicatii|Domeniu	Tehnologii Utilizate|Metodologie|Abordare	Rezultate
+1	Xiaoguang Han, Zhaojian Li, Chiyu Max Jiang, Jiajun Wu, Zhizhong Han, Yu-Shen Liu, Matthias Zwicker, 2019	Context-aware 3D Reconstruction from Single and Multi-view Images	Realitate virtuală/augumentată, Jocuri video, Reconstrucție medicală, Obiecte din fotografii	Tehnici de deep learning și inteligență artificială, Rețele neuronale convoluționale 3D (3D-CNN)	În prima fază se face construcția pe o singură imagine, apoi se integrează mai multe imagini pentru un rezultat mai bun	Oferă rezultate bune și pentru seturi mici de imagini. Reconstrucția eficientă din imagini limitate și utilizarea contextului pentru a îmbunătăți acuratețea.
